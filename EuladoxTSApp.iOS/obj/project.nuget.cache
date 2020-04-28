@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I04w+YqveY4jxbbvxEn+gjM8LGEKvtcFCao5weoa9B5M74LpezwivnlLiukvgIzyZwKAdALFKoN7KJPXTFxvrw==",
+  "success": true,
+  "projectFilePath": "D:\\Sujata\\EuladoxTSApp\\EuladoxTSApp\\EuladoxTSApp\\EuladoxTSApp.iOS\\EuladoxTSApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAURABH JHA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SAURABH JHA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SAURABH JHA\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
+    "C:\\Users\\SAURABH JHA\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
+    "C:\\Users\\SAURABH JHA\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
+    "C:\\Users\\SAURABH JHA\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
